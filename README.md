@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Han-park
 - 👀 I’m interested in <b>How will AI change the Design.</b>
-- 🌱 I’m currently trying to be a tech builder.
 - 📫 Feel free to contact me through <a href="mailto:me@han-park.info">me@han-park.info</a>.
 
 <!---
